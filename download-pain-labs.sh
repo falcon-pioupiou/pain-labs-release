@@ -72,7 +72,7 @@ else
 fi
 
 # Construct binary name and URL
-BINARY_URL="$BASE_URL/pain-lab-$OS-$ARCH"
+BINARY_URL="$BASE_URL/pain-labs-$OS-$ARCH"
 OUTPUT_PATH="$OUTPUT_DIR/$BINARY_NAME"
 
 echo -e "${BLUE}Downloading Pain Lab for $OS/$ARCH...${NC}"
