@@ -13,7 +13,7 @@ NC='\033[0m' # No Color
 
 BASE_URL="https://github.com/falcon-pioupiou/pain-labs-release/raw/refs/heads/main/latest"
 OUTPUT_DIR="."
-BINARY_NAME="pain-lab"
+BINARY_NAME="pain-labs"
 
 print_header() {
   echo -e "${BLUE}=============================================${NC}"
