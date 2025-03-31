@@ -1,0 +1,5 @@
+* chore: bump version to v0.0.7 (62179ff)
+* fix: release system (343d934)
+* chore: bump version to v0.0.6 (27da9cc)
+* fix: docker link (2dd89fc)
+* add README and update the public readme (ccc76be)
