@@ -1,9 +1,12 @@
 # Pain Lab Release Repository
 
-This repository contains released versions of the Pain Lab tool.
+Latest release: [v0.0.5](https://github.com/falcon-pioupiou/pain-labs-release/tree/main/releases/v0.0.5)
 
-## Latest Release
-Not available yet
+## Downloads
+- [Linux (amd64)](https://github.com/falcon-pioupiou/pain-labs-release/raw/main/latest/pain-lab-linux-amd64)
+- [Linux (arm64)](https://github.com/falcon-pioupiou/pain-labs-release/raw/main/latest/pain-lab-linux-arm64)
+- [macOS (amd64)](https://github.com/falcon-pioupiou/pain-labs-release/raw/main/latest/pain-lab-darwin-amd64)
+- [macOS (arm64)](https://github.com/falcon-pioupiou/pain-labs-release/raw/main/latest/pain-lab-darwin-arm64)
 
 ## Release History
-No releases yet
+* [v0.0.5](https://github.com/falcon-pioupiou/pain-labs-release/tree/main/releases/v0.0.5)
